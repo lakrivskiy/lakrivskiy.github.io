@@ -2,9 +2,7 @@
 body{
 background-image: url(sithart.jpg);
 background-attachment: fixed;
-background-size: 110%;
-background-repeat: no-repeat;
-
+background-size: 110%
 }
 p{
 border: solid;	
