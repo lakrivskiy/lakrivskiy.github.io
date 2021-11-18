@@ -57,10 +57,3 @@ height: 50%;
 }
 
 
-.descript{
-  width: 300px;  - ширина
-  color: #white;  - цвет
-  font-style: italic;  - курсив
-  margin: 70px 0 0 30px;  - расположение
-  font-size:22px; - размер шрифта
-}
