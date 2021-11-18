@@ -50,17 +50,13 @@ width: 100%;
 height: 50%;
 }
 #header{
-  width: 900px;     - ширина
-  height: 200px;    - высота
+  width: 100px;     - ширина
+  height: 170px;    - высота
   background-color: #25B33f;  - фоновый цвет (можно не задавать)
   margin-bottom: 10px;    - отступ снизу
 }
 
-h1{
-  color: #white;  - цвет заголовка
-  font: 40px Georgia;  - шрифт
-  margin-left: 300px;  - отступ слева
-}
+
 .descript{
   width: 300px;  - ширина
   color: #white;  - цвет
